@@ -8,6 +8,14 @@
  
  💬 Ask me about JavaScript, React.js, MongoDB, Node.js, Express.js and TypeScript.
 
+ ## 🚀 Skills  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+
 
 ### 🛠️ Skills  
 - **Languages:** JavaScript, TypeScript, HTML, CSS  
