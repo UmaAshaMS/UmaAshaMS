@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a MERN Stack Developer.
-- 👯 I’m looking to collaborate on innovative projects involving cutting-edge technologies.
-- 💬 Ask me about JavaScript, React.js, MongoDB, Node.js, Express.js and TypeScript.
+ 🔭 I’m currently working as a MERN Stack Developer.
+ 👯 I’m looking to collaborate on innovative projects involving cutting-edge technologies.
+ 💬 Ask me about JavaScript, React.js, MongoDB, Node.js, Express.js and TypeScript.
 
 
 ### 🛠️ Skills  
