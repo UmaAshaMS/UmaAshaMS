@@ -6,7 +6,7 @@
 
 
 ### 🛠️ Skills  
-- **Languages:** JavaScript, HTML, CSS  
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
 - **Frontend:** React.js, Vite  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB, Firebase, SQL  
