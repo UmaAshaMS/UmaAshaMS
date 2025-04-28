@@ -18,7 +18,7 @@
 
 ### 🛠️ Skills  
 - **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Frontend:** React.js, Vite  
+- **Frontend:** React.js,Redux Toolkit, Vite  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB, Firebase, SQL  
 - **Tools:** Git, GitHub
